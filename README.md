@@ -11,6 +11,8 @@ The project is divided into three main components:
 - **AI**: AI-powered backend services.
 - **Client**: Frontend client application.
 
+![TranspaRent](https://github.com/user-attachments/assets/6fd060ae-ce22-4e41-97fb-cfec69436ea0)
+
 ## Prerequisites
 
 Make sure you have the following installed:
